@@ -32,4 +32,4 @@ Universidade Tecnológica Federal do Paraná - UTFPR
 ## Contato
 - Telefone: 49 99138-1952
 - Email: luanfinatto6@gmail.com
-- LinkedIn: linkedin.com/in/luan-finatto-aa8b55204
+- LinkedIn: www.linkedin.com/in/luan-finatto
