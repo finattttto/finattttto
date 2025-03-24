@@ -1,8 +1,8 @@
 # Luan Finatto
-Desenvolvedor WEB - Desenvolvedor FullStack
+Desenvolvedor FullStack
 
 ## Sobre
-Sou estudante de graduação no curso de Análise e Desenvolvimento de Sistemas na UTFPR e Desenvolvedor Web, sempre fui apaixonado por tecnologia e programação. Atualmente, possuo conhecimentos em diversas tecnologias, incluindo C#, Java, JavaScript (JS), TypeScript (TS), HTML, CSS, Angular, PostgreSQL, MongoDB, NodeJS, Docker, entre outras. Estou constantemente em busca de aperfeiçoamento e crescimento profissional na área de TI.
+Desenvolvedor Web formado em Análise e Desenvolvimento de Sistemas pela UTFPR, com experiência em Java, Angular, Next.js, JavaScript, TypeScript, HTML, CSS, React, GO, PostgreSQL, MongoDB, Node.js, entre outras tecnologias. Interessado no desenvolvimento de soluções eficientes e escaláveis, busco sempre aprimorar minhas habilidades e me manter atualizado com as melhores práticas do mercado. Tenho forte capacidade de adaptação, trabalho em equipe e resolução de problemas, focando em entregar códigos e produtos de qualidade.
 
 ## Experiência Profissional
 Hábil Software by Limber
@@ -15,7 +15,7 @@ Desenvolvedor Web
 
 ## Formação Acadêmica
 Tecnólogo em Análise e Desenvolvimento de Sistemas
-2022 - Cursando
+2022 - 2024
 Universidade Tecnológica Federal do Paraná - UTFPR
 
 ## Principais Tecnologias
@@ -24,10 +24,12 @@ Universidade Tecnológica Federal do Paraná - UTFPR
 - HTML / CSS
 - Angular
 - React
+- NextJS
 - PostgreSQL
 - MongoDB
 - Postman
 - NodeJS
+- GO
 
 ## Contato
 - Telefone: 49 99138-1952
